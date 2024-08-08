@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCNpN3P5qVhrwemQlB-DgO8tW0FsuexpP0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1078234433046</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fastcamFirebaseExample</string>
+	<key>PROJECT_ID</key>
+	<string>fc-firebase-cleanarch-exam</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fc-firebase-cleanarch-exam.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1078234433046:ios:89d1d803bf8d56ed559737</string>
+	<key>DATABASE_URL</key>
+	<string>https://fc-firebase-cleanarch-exam-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
